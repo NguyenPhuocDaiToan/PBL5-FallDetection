@@ -31,3 +31,6 @@
 * Các bước thực hiện tương tự phương pháp Top-down
 
 * Chạy chương trình: chạy file demo_bottom-up.py
+
+# 📊 Link demo: https://www.youtube.com/watch?v=QQgUqKkMC-E
+
