@@ -24,9 +24,9 @@
  
 * Chạy chương trình: chạy file demo_top-down.py (sửa đường dẫn video, path model để chạy)
 
-# 📊 Thư viện và các bước thực hiện Phương pháp Bottom-up:
+# 📊 Thư viện và các bước thực hiện Phương pháp Bottom-up trên jetson nano:
 
-* Cài thư viện phụ thuộc: https://github.com/nt-myduyen/fall-dection-system-on-jetsonnano/blob/main/Config_JetsonNano.md
+* Cài thư viện phụ thuộc trên jetson nano: https://github.com/nt-myduyen/fall-dection-system-on-jetsonnano/blob/main/Config_JetsonNano.md
 
 * Các bước thực hiện tương tự phương pháp Top-down
 
