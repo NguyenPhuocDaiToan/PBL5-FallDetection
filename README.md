@@ -32,5 +32,13 @@
 
 * Chạy chương trình: chạy file demo_bottom-up.py
 
-# 📊 Link demo: https://www.youtube.com/watch?v=QQgUqKkMC-E
+# 📊 Link demo:
+
+* Link: https://www.youtube.com/watch?v=QQgUqKkMC-E
+
+# 📊 Dataset của nhóm:
+
+* Link: https://drive.google.com/drive/folders/15BzyNGN5zBJl_oTOD-Ah6BrZEYsFAZ5-?usp=drive_link
+  
+* Nếu không truy cập được vui lòng tải thư mục Dataset.zip
 
